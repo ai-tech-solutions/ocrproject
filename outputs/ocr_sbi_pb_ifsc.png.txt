@@ -1,0 +1,88 @@
+
+
+	Mon Jul 13 23:25:48 2020
+
+FIRST
+
+State Bank of India
+
+ 
+
+Phone : 25646364
+Email:sboi .O0188@sbi .co.in
+
+- Branch Code:1888
+
+Date of Issue:29/06/2016
+
+I/UOF OLE 6 S65 89 188
+IFSC :S8 INO001888 1
+SRST
+^EOF 
+ 
+
+
+	Tue Jul 14 01:11:14 2020
+
+FIRST
+
+State Bank of India
+
+ 
+
+Phone : 25646364
+Email:sboi .O0188@sbi .co.in
+
+- Branch Code:1888
+
+Date of Issue:29/06/2016
+
+I/UOF OLE 6 S65 89 188
+IFSC :S8 INO001888 1
+SRST
+^EOF 
+ 
+
+
+	Tue Jul 14 01:29:24 2020
+
+06 State Bank of India
+BELGH ,
+
+97, (ROAD ye GOMES Ay
+
+Phone:25646364
+Email:sbi.01@8@sbi.co.in
+Branch Code:1868
+
+Date of Issue:29/06/2016
+
+9/06/2016 6568289 188i
+IFSC:S81NO001888 a
+saver
+
+FIRST Branch MI
+^EOF 
+ 
+
+
+	Tue Jul 14 13:53:42 2020
+
+06 State Bank of India
+BELGH ,
+
+97, (ROAD ye GOMES Ay
+
+Phone:25646364
+Email:sbi.01@8@sbi.co.in
+Branch Code:1868
+
+Date of Issue:29/06/2016
+
+9/06/2016 6568289 188i
+IFSC:S81NO001888 a
+saver
+
+FIRST Branch MI
+^EOF 
+ 
